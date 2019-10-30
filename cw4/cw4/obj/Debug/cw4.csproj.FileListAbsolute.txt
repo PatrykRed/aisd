@@ -1,0 +1,7 @@
+C:\Users\local\source\repos\aisd\cw4\cw4\bin\Debug\cw4.exe.config
+C:\Users\local\source\repos\aisd\cw4\cw4\bin\Debug\cw4.exe
+C:\Users\local\source\repos\aisd\cw4\cw4\bin\Debug\cw4.pdb
+C:\Users\local\source\repos\aisd\cw4\cw4\obj\Debug\cw4.csprojAssemblyReference.cache
+C:\Users\local\source\repos\aisd\cw4\cw4\obj\Debug\cw4.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\aisd\cw4\cw4\obj\Debug\cw4.exe
+C:\Users\local\source\repos\aisd\cw4\cw4\obj\Debug\cw4.pdb
